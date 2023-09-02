@@ -54,7 +54,7 @@
    &trans &kp EXCL  &kp AT    &kp HASH  &kp DLLR  &kp PRCNT   &kp CARET &kp AMPS  &kp KP_MULTIPLY  &kp GRAVE  &kp TILDE &trans
    &trans &kp DQT   &kp LBKT  &kp LBRC  &kp LPAR  &trans      &kp FSLH  &kp MINUS &kp EQUAL 	   &kp COLON  &kp SEMI  &trans
    &trans &kp SQT   &kp RBKT  &kp RBRC  &kp RPAR  &trans      &kp BSLH  &kp UNDER &kp PLUS  	   &kp PIPE   &kp QMARK &trans
-							  &trans    &trans    &trans      &trans    &mo 3     &trans
+							  &trans    &mo 3   &trans      &trans   &trans    &trans
                         >;
                 };
                 tri_layer {
